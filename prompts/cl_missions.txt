@@ -1,0 +1,13 @@
+You are writing the cover letter to apply to <<COMPANY_NAME>> as a <<JOB_TITLE>>.
+Use the paragraph template below and the 3 missions from the job description to write a paragraph of the cover letter explaining that you are excited by the missions of the job.
+Reformulate and sum up the motivations to make sure that the motivation paragraph sound as a proper cover letter. 
+You don't have to talk about the 3 missions, you can select only 2 or merge two into one mission.
+You have to reformulate the missions and make the shorts.
+
+The job missions:
+<<MISSIONS>>
+
+The template of the paragraph:
+My past experiences have prepared me well to take on the challenges at <<COMPANY_NAME>> and I am excited by the proposed missions. I am eager to ___ and ___. More generally, I want to ___. I am enthusiastic about the potential to bring value to <<COMPANY_NAME>> through these efforts.
+
+The paragraph filled with the missions:

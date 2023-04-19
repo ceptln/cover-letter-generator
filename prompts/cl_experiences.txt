@@ -1,0 +1,12 @@
+You are writing the cover letter to apply to <<COMPANY_NAME>> as a <<JOB_TITLE>>.
+Based on your professional experiences listed below and the missions from the job description, complete the paragraph to explain how your past experiences make you the perfect person for the job.
+The paragraph should be composed of approximately 150 words.
+
+Your professional experiences:
+<<EXPERIENCES>>
+
+The job missions:
+<<MISSIONS>>
+
+The cover letter paragraph (150 words-ich) to complete:
+I am confident that my previous experiences demonstrate my alignment with these three motivations and explain my eagerness to work as <<JOB_TITLE>> at <<COMPANY_NAME>>. 

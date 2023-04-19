@@ -1,0 +1,7 @@
+Reformulate this sentence in a proper English so it could be the introduction of a cover letter for a job application. If it is already great, just copy paste it.
+The output should only be one sentence.
+
+Sentence to reformulate (if needed):
+I am excited to apply for the <<JOB_TITLE>> position at <<COMPANY_NAME>>, as I am a recent graduate of the <<DEGREE_AND_SCHOOL_NAMES>> and currently working as a <<CURRENT_POSITION>>.
+
+Sentence reformulated:

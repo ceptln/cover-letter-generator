@@ -1,0 +1,14 @@
+You are writing the cover letter to apply to <<COMPANY_NAME>> as a <<JOB_TITLE>>.
+Based on your academic background listed below and the missions from the job description, write a small paragraph to explain your studies constitute a solid background for this position.
+If the studies have nothing to do with the job, highlighs soft skills that you developed at school which will be valuable.
+You can make up work projects or academical stuff if needed.
+Don't write long accumulations of courses taken, choose only relevant courses. No long indigestible lists.
+The paragraph should be composed of maximum 100 words, it can be less.
+
+Your professional experiences:
+<<EDUCATION>>
+
+The job missions:
+<<MISSIONS>>
+
+The cover letter paragraph explaining why your studies will be a strength to the job (100 words max.)

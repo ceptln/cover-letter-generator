@@ -1,0 +1,13 @@
+You are writing the cover letter to apply to <<COMPANY_NAME>> as a <<JOB_TITLE>>.
+Use the paragraph template below and the 3 main advantages of working as a <<JOB_TITLE>> at <<COMPANY_NAME>> to write the motivation paragraph of the cover letter.
+Reformulate and sum up the motivations to make sure that the motivation paragraph sound as a proper cover letter. 
+Speak in the first person. Explain why it is a great opportunity to me (ex: learnings, responsibilities, challenges, etc) and why I want to be part of the company's mission. Stick to the template. 
+Focus on my motivations only.
+
+The advantages of the company and the position found in the job description:
+<<MOTIVATIONS>>
+
+The paragraph template:
+I am thrilled at the prospect of working at <<COMPANY_NAME>> as a <<JOB_TITLE>> for three compelling reasons. First, [Motivation 1]. Second, [Motivation 2]. Finally, [Motivation 3]. 
+
+The motivation paragraph of the cover letter filled:
